@@ -1,0 +1,63 @@
+/** swifttype **/
+.st-injected-content-generated.st-install-Ztvjzi9x9YkCnPBjAnzp .st-ui-result .st-ui-type-heading {
+  color: #e84e0f !important;
+}
+.block-swiftype-integration h2 {
+  display: none;
+}
+.block-swiftype-integration input,
+#swiftype-search-mobile input {
+  clear: both;
+  background: url("../images/loupe.png") no-repeat 95% center;
+  background-color: #f8f7f7;
+  display: block;
+  cursor: pointer;
+  border: none;
+  padding: 7px 30px 7px 15px;
+  height: 26px;
+  width: 250px;
+}
+#swiftype-search-mobile input {
+  width: calc(100% - 45px);
+}
+.field-name-field-texte a.st-ui-result {
+  text-decoration: none !important;
+}
+#swiftype-ct-list .form-item.form-type-item {
+  display: inline-block;
+}
+#swiftype-ct-attributes tr.disabledct {
+  background: #e0e0e0;
+}
+
+.swiftype-widget .autocomplete li a img {
+  width: 15%;
+  display: inline-block;
+}
+.swiftype-widget .autocomplete li a div {
+  display: inline-block;
+  width: calc(82%);
+  vertical-align: top;
+  margin-left: 3%;
+}
+.swiftype-widget .autocomplete li.active {
+  font-weight: 400;
+}
+.swiftype-widget .autocomplete li em {
+  font-style: italic;
+  font-weight: 400;
+}
+.swiftype-widget .autocomplete li h2 {
+  word-break: break-all;
+}
+
+#swiftype-integration-index-form > div {
+  display: block;
+}
+#edit-submit-button {
+  display: block;
+}
+
+#ajax-progress-edit-submit-button {
+  width: 100%;
+}
